@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-http://i.imgur.com/TipCalcu.gif
+https://i.imgur.com/LA1RekC.gifv
 ## Notes
 
 Describe any challenges encountered while building the app.
